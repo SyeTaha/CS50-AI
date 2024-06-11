@@ -14,3 +14,4 @@ This repository contains my solutions to the tasks and projects provided with ea
 - Machine learning
 - Optimization
 - Neural networks
+- Natural Language Processing
